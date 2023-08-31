@@ -393,7 +393,7 @@
     "keyAlias": "index",
     "keyAliasandwear": "",
     "keyPassword": "hcl123",
-    "keyStoreFilePath": "certificates\\android\\Pswd and Alias.txt",
+    "keyStoreFilePath": "certificates\\android\\appfactjks.jks",
     "keyStoreFilePathandwear": "",
     "keyStorePassword": "hcl123",
     "keychainPassword": "",
